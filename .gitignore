@@ -42,5 +42,24 @@ Thumbs.db
 .$*
 figma-scripts/
 *.figma.js
+figma-plugin/
+scratch/
 
+# Mentor submission exports (not added to git)
+mentor_export/
+DevCraft_Feature01_Gunasekara_Diagrams.pdf
+DevCraft_Feature01_UML_and_Architecture_Gunasekara.pdf
 
+devcraft-repo/
+
+# Design backups & archives (not added to git)
+*.fig
+*.rar
+*.zip
+*.7z
+
+# Antigravity Chat History & Artifacts
+chat_history/
+chathistory/
+*chat_history*
+*chathistory*
